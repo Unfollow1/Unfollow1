@@ -1,5 +1,7 @@
-## Hi there 👋
+## Olá! eu sou o gleydson =]
 
+![Unfollow GitHub stats](https://github-readme-stats.vercel.app/api?username=Unfollow1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <!--
 **Unfollow1/Unfollow1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+    <a href="https://beacons.ai/rafaballerini">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Unfollow1&show_icons=true&theme=radical" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unfollow1&layout=compact&langs_count=16&theme=dark" />
+    </a>
+</div>
