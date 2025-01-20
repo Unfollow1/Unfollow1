@@ -7,4 +7,3 @@
     </a>
 </div>
 
-![Snake animation](https://github.com/Unfollow1/Unfollow1/blob/output/github-contribution-grid-snake.svg)
